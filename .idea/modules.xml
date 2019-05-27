@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../phpoop.com.ua/.idea/OOP.net.iml" filepath="$PROJECT_DIR$/../phpoop.com.ua/.idea/OOP.net.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../phptraine.com.ua/.idea/phptraine.com.ua.iml" filepath="$PROJECT_DIR$/../phptraine.com.ua/.idea/phptraine.com.ua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/test.ua.iml" filepath="$PROJECT_DIR$/.idea/test.ua.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Личный сайт/.idea/Личный сайт.iml" filepath="$USER_HOME$/Desktop/Личный сайт/.idea/Личный сайт.iml" />
+    </modules>
+  </component>
+</project>
